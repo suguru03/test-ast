@@ -1,5 +1,13 @@
 {
   "name": "test-ast",
   "version": "0.0.0",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@babel/parser": "^7.7.4",
+    "javascript2typescript": "^0.2.0",
+    "prettier": "^1.19.1",
+    "prettier-hook": "^0.4.6",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2"
+  }
 }
